@@ -16,7 +16,7 @@ As linhas abaixo assumem que o oponente não interrompe os efeitos e que as cart
 8. O efeito de Emperor, Ritualizado do Extra Deck, bane os monstros no campo fora das EMZs. Depois, enquanto Emperor estiver na EMZ, use seu outro efeito para Invocar Lovely direto do deck.
 9. Ative o efeito da Lovely para settar Archfiend Playtime.
 
-**Resultado:** Archfiend Emperor na EMZ, Lovely no campo e Archfiend Playtime Baixada para o próximo turno. Playtime não pode ser ativada no mesmo turno em que Lovely a Baixou.
+**Resultado:** Archfiend Emperor na EMZ, Lovely no campo e Archfiend Playtime Baixada para o próximo turno.
 
 ## Combo 02
 
