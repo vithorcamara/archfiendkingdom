@@ -1,0 +1,900 @@
+{
+  "name": "Archfiend Kingdom",
+  "cards": [
+    {
+      "cardId": 2347656,
+      "quantity": 1,
+      "type": "main",
+      "cardDetails": {
+        "id": 2347656,
+        "name": "Lovely Labrynth of the Silver Castle",
+        "typeline": [
+          "Fiend",
+          "Effect"
+        ],
+        "type": "Effect Monster",
+        "humanReadableCardType": "Effect Monster",
+        "frameType": "effect",
+        "desc": "Your opponent cannot activate monster effects in response to the activation of your Normal Trap Cards. You can only use each of the following effects of |Lovely Labrynth of the Silver Castle| once per turn. You can target 1 Normal Trap in your GY; Set it to your field, but it cannot be activated unless you control a Fiend monster. If another monster(s) leaves the field by your Normal Trap effect (except during the Damage Step): You can destroy 1 card in your opponent's hand (at random) or their field.",
+        "race": "Fiend",
+        "atk": 2900,
+        "def": 1900,
+        "level": 8,
+        "attribute": "DARK",
+        "archetype": "Labrynth",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/lovely-labrynth-of-the-silver-castle-13117"
+      }
+    },
+    {
+      "cardId": 5168381,
+      "quantity": 1,
+      "type": "main",
+      "cardDetails": {
+        "id": 5168381,
+        "name": "Archfiend's Ghastly Glitch",
+        "type": "Trap Card",
+        "humanReadableCardType": "Normal Trap",
+        "frameType": "trap",
+        "desc": "If you control a Fiend monster: Target 1 card on the field; destroy it, then, you can send 1 Fiend monster from your Deck to the GY.",
+        "race": "Normal",
+        "archetype": "Archfiend",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-s-ghastly-glitch-13109"
+      }
+    },
+    {
+      "cardId": 10045474,
+      "quantity": 3,
+      "type": "main",
+      "cardDetails": {
+        "id": 10045474,
+        "name": "Infinite Impermanence",
+        "type": "Trap Card",
+        "humanReadableCardType": "Normal Trap",
+        "frameType": "trap",
+        "desc": "Target 1 face-up monster your opponent controls; negate its effects (until the end of this turn), then, if this card was Set before activation and is on the field at resolution, for the rest of this turn all other Spell/Trap effects in this column are negated. If you control no cards, you can activate this card from your hand.",
+        "race": "Normal",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/infinite-impermanence-9220"
+      }
+    },
+    {
+      "cardId": 11248645,
+      "quantity": 3,
+      "type": "main",
+      "cardDetails": {
+        "id": 11248645,
+        "name": "Highness Archfiend",
+        "typeline": [
+          "Fiend",
+          "Effect"
+        ],
+        "type": "Effect Monster",
+        "humanReadableCardType": "Effect Monster",
+        "frameType": "effect",
+        "desc": "If this card is Normal Summoned: You can banish 1 |Archfiend| card from your GY; add 2 |Archfiend| cards from your Deck to your hand, except |Highness Archfiend|, also you cannot Special Summon from the Extra Deck for the rest of this turn, except |Archfiend| monsters. When your Ritual Monster is destroyed by battle while this card is in your GY: You can Special Summon this card. You can only use each effect of |Highness Archfiend| once per turn.",
+        "race": "Fiend",
+        "atk": 1000,
+        "def": 800,
+        "level": 3,
+        "attribute": "LIGHT",
+        "archetype": "Archfiend",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/highness-archfiend-15301"
+      }
+    },
+    {
+      "cardId": 13048472,
+      "quantity": 1,
+      "type": "main",
+      "cardDetails": {
+        "id": 13048472,
+        "name": "Pre-Preparation of Rites",
+        "type": "Spell Card",
+        "humanReadableCardType": "Normal Spell",
+        "frameType": "spell",
+        "desc": "Add 1 Ritual Spell from your Deck to your hand, and add 1 Ritual Monster from your Deck or GY to your hand whose name is listed on that Ritual Spell. You can only activate 1 |Pre-Preparation of Rites| per turn.",
+        "race": "Normal",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/pre-preparation-of-rites-1126",
+        "banlist_info": {
+          "ban_ocg": "Limited"
+        }
+      }
+    },
+    {
+      "cardId": 13379114,
+      "quantity": 1,
+      "type": "main",
+      "cardDetails": {
+        "id": 13379114,
+        "name": "Archfiend's Fervor",
+        "type": "Trap Card",
+        "humanReadableCardType": "Continuous Trap",
+        "frameType": "trap",
+        "desc": "If you control an |Archfiend| Ritual Monster in the Extra Monster Zone: You can target 1 face-up card your opponent controls; negate its effects until the end of this turn. If this card is banished from the hand or field: You can add 1 |Archfiend| card from your Deck to your hand, except |Archfiend's Fervor|. You can only use each effect of |Archfiend's Fervor| once per turn.",
+        "race": "Continuous",
+        "archetype": "Archfiend",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-s-fervor-15296"
+      }
+    },
+    {
+      "cardId": 14532163,
+      "quantity": 1,
+      "type": "main",
+      "cardDetails": {
+        "id": 14532163,
+        "name": "Lightning Storm",
+        "type": "Spell Card",
+        "humanReadableCardType": "Normal Spell",
+        "frameType": "spell",
+        "desc": "If you control no face-up cards: Activate 1 of these effects;• Destroy all Attack Position monsters your opponent controls.• Destroy all Spells and Traps your opponent controls. You can only activate 1 |Lightning Storm| per turn.",
+        "race": "Normal",
+        "archetype": "Cyclone",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/lightning-storm-10639"
+      }
+    },
+    {
+      "cardId": 14558127,
+      "quantity": 3,
+      "type": "main",
+      "cardDetails": {
+        "id": 14558127,
+        "name": "Ash Blossom  & Joyous Spring",
+        "typeline": [
+          "Zombie",
+          "Tuner",
+          "Effect"
+        ],
+        "type": "Tuner Monster",
+        "humanReadableCardType": "Tuner Effect Monster",
+        "frameType": "effect",
+        "desc": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that effect.• Add a card from the Deck to the hand.• Special Summon from the Deck.• Send a card from the Deck to the GY. You can only use this effect of |Ash Blossom  & Joyous Spring| once per turn.",
+        "race": "Zombie",
+        "atk": 0,
+        "def": 1800,
+        "level": 3,
+        "attribute": "FIRE",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/ash-blossom-joyous-spring-8554",
+        "banlist_info": {
+          "ban_ocg": "Semi-Limited"
+        }
+      }
+    },
+    {
+      "cardId": 18144507,
+      "quantity": 1,
+      "type": "main",
+      "cardDetails": {
+        "id": 18144507,
+        "name": "Harpie's Feather Duster",
+        "type": "Spell Card",
+        "humanReadableCardType": "Normal Spell",
+        "frameType": "spell",
+        "desc": "Destroy all Spell and Trap Cards your opponent controls.",
+        "race": "Normal",
+        "archetype": "Harpie",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/harpie-s-feather-duster-1573",
+        "banlist_info": {
+          "ban_tcg": "Limited",
+          "ban_ocg": "Limited",
+          "ban_goat": "Forbidden"
+        }
+      }
+    },
+    {
+      "cardId": 24224830,
+      "quantity": 1,
+      "type": "main",
+      "cardDetails": {
+        "id": 24224830,
+        "name": "Called by the Grave",
+        "type": "Spell Card",
+        "humanReadableCardType": "Quick-Play Spell",
+        "frameType": "spell",
+        "desc": "Target 1 monster in your opponent's GY; banish it, and if you do, until the end of the next turn, its effects are negated, as well as the activated effects and effects on the field of monsters with the same original name.",
+        "race": "Quick-Play",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/called-by-the-grave-9244",
+        "banlist_info": {
+          "ban_tcg": "Limited",
+          "ban_ocg": "Forbidden"
+        }
+      }
+    },
+    {
+      "cardId": 25311006,
+      "quantity": 1,
+      "type": "main",
+      "cardDetails": {
+        "id": 25311006,
+        "name": "Triple Tactics Talent",
+        "type": "Spell Card",
+        "humanReadableCardType": "Normal Spell",
+        "frameType": "spell",
+        "desc": "If your opponent has activated a monster effect during your Main Phase this turn: Activate 1 of these effects;• Draw 2 cards.• Take control of 1 monster your opponent controls until the End Phase.• Look at your opponent's hand, and choose 1 card from it to shuffle into the Deck. You can only activate 1 |Triple Tactics Talent| per turn.",
+        "race": "Normal",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/triple-tactics-talent-11112",
+        "banlist_info": {
+          "ban_tcg": "Limited"
+        }
+      }
+    },
+    {
+      "cardId": 30748475,
+      "quantity": 1,
+      "type": "main",
+      "cardDetails": {
+        "id": 30748475,
+        "name": "Destructive Daruma Karma Cannon",
+        "type": "Trap Card",
+        "humanReadableCardType": "Normal Trap",
+        "frameType": "trap",
+        "desc": "Change as many monsters on the field as possible to face-down Defense Position, then, if either player controls a face-up monster(s), they must send all face-up monsters they control to the GY.",
+        "race": "Normal",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/destructive-daruma-karma-cannon-13527"
+      }
+    },
+    {
+      "cardId": 32785578,
+      "quantity": 2,
+      "type": "main",
+      "cardDetails": {
+        "id": 32785578,
+        "name": "Farewelcome Labrynth",
+        "type": "Trap Card",
+        "humanReadableCardType": "Normal Trap",
+        "frameType": "trap",
+        "desc": "When a monster declares an attack, while you control a Fiend monster: Target 1 card on the field; negate the attack, and if you do, destroy that targeted card, then, you can Set 1 non-|Labrynth| Normal Trap from your hand or Deck.",
+        "race": "Normal",
+        "archetype": "Labrynth",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/farewelcome-labrynth-13110"
+      }
+    },
+    {
+      "cardId": 48469380,
+      "quantity": 1,
+      "type": "main",
+      "cardDetails": {
+        "id": 48469380,
+        "name": "Archfiend Emperor",
+        "typeline": [
+          "Fiend",
+          "Ritual",
+          "Pendulum",
+          "Effect"
+        ],
+        "type": "Pendulum Effect Ritual Monster",
+        "humanReadableCardType": "Ritual Pendulum Effect Monster",
+        "frameType": "ritual_pendulum",
+        "desc": "[ Pendulum Effect ]  You can target 1 other face-up Spell/Trap on the field; destroy both it and this card. You can only use this effect of |Archfiend Emperor| once per turn.  [ Monster Effect ]  You can Ritual Summon this card with |Throne of the Archfiends|. Must be Ritual Summoned. Unaffected by other monsters' effects while in the Extra Monster Zone. You can only use each of the following effects of |Archfiend Emperor| once per turn. If this card is Ritual Summoned from the Extra Deck: You can banish all monsters on the field, except in the Extra Monster Zones. If this card is in the Extra Monster Zone: You can Special Summon 1 Fiend monster from your hand, Deck, GY, or banishment.",
+        "race": "Fiend",
+        "pend_desc": "You can target 1 other face-up Spell/Trap on the field; destroy both it and this card. You can only use this effect of |Archfiend Emperor| once per turn.",
+        "monster_desc": "You can Ritual Summon this card with |Throne of the Archfiends|. Must be Ritual Summoned. Unaffected by other monsters' effects while in the Extra Monster Zone. You can only use each of the following effects of |Archfiend Emperor| once per turn. If this card is Ritual Summoned from the Extra Deck: You can banish all monsters on the field, except in the Extra Monster Zones. If this card is in the Extra Monster Zone: You can Special Summon 1 Fiend monster from your hand, Deck, GY, or banishment.",
+        "atk": 2500,
+        "def": 1200,
+        "level": 7,
+        "attribute": "FIRE",
+        "archetype": "Archfiend",
+        "scale": 0,
+        "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-emperor-15299"
+      }
+    },
+    {
+      "cardId": 48745395,
+      "quantity": 3,
+      "type": "main",
+      "cardDetails": {
+        "id": 48745395,
+        "name": "Labrynth Archfiend",
+        "typeline": [
+          "Fiend",
+          "Effect"
+        ],
+        "type": "Effect Monster",
+        "humanReadableCardType": "Effect Monster",
+        "frameType": "effect",
+        "desc": "Gains 400 ATK for each Normal Trap with a different name in your GY. Your opponent's monsters cannot target Fiend monsters for attacks, except |Labrynth Archfiend|. You can only use each of the following effects of |Labrynth Archfiend| once per turn. If a Trap Card is activated (except during the Damage Step): You can Special Summon this card from your hand. If this card is Special Summoned: You can Set 1 Normal Trap from your Deck that can only be activated when an attack is declared.",
+        "race": "Fiend",
+        "atk": 2000,
+        "def": 2800,
+        "level": 7,
+        "attribute": "DARK",
+        "archetype": "Archfiend",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/labrynth-archfiend-13112"
+      }
+    },
+    {
+      "cardId": 57624336,
+      "quantity": 1,
+      "type": "main",
+      "cardDetails": {
+        "id": 57624336,
+        "name": "Archfiend Eccentrick",
+        "typeline": [
+          "Fiend",
+          "Pendulum",
+          "Effect"
+        ],
+        "type": "Pendulum Effect Monster",
+        "humanReadableCardType": "Pendulum Effect Monster",
+        "frameType": "effect_pendulum",
+        "desc": "[ Pendulum Effect ]  You can target 1 other Spell/Trap on the field; destroy both it and this card. You can only use this effect of |Archfiend Eccentrick| once per turn.  [ Monster Effect ]  You can Tribute this card, then target 1 monster on the field; destroy it. You can only use this effect of |Archfiend Eccentrick| once per turn.",
+        "race": "Fiend",
+        "pend_desc": "You can target 1 other Spell/Trap on the field; destroy both it and this card. You can only use this effect of |Archfiend Eccentrick| once per turn.",
+        "monster_desc": "You can Tribute this card, then target 1 monster on the field; destroy it. You can only use this effect of |Archfiend Eccentrick| once per turn.",
+        "atk": 800,
+        "def": 1000,
+        "level": 3,
+        "attribute": "LIGHT",
+        "archetype": "Archfiend",
+        "scale": 7,
+        "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-eccentrick-4907"
+      }
+    },
+    {
+      "cardId": 58769832,
+      "quantity": 3,
+      "type": "main",
+      "cardDetails": {
+        "id": 58769832,
+        "name": "Royal Archfiend",
+        "typeline": [
+          "Fiend",
+          "Effect"
+        ],
+        "type": "Effect Monster",
+        "humanReadableCardType": "Effect Monster",
+        "frameType": "effect",
+        "desc": "You can Tribute this card from your hand or face-up field; add 1 |Archfiend| card from your Deck to your hand, except |Royal Archfiend|, also you cannot Special Summon from the Extra Deck for the rest of this turn, except |Archfiend| monsters, but you can Normal Summon 1 Fiend monster during your Main Phase this turn, in addition to your Normal Summon/Set (you can only gain this effect once per turn). When your Ritual Monster is destroyed by battle while this card is in your GY: You can Special Summon this card. You can only use each effect of |Royal Archfiend| once per turn.",
+        "race": "Fiend",
+        "atk": 2400,
+        "def": 1000,
+        "level": 7,
+        "attribute": "FIRE",
+        "archetype": "Archfiend",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/royal-archfiend-15297"
+      }
+    },
+    {
+      "cardId": 63679166,
+      "quantity": 3,
+      "type": "main",
+      "cardDetails": {
+        "id": 63679166,
+        "name": "Throne of the Archfiends",
+        "type": "Spell Card",
+        "humanReadableCardType": "Ritual Spell",
+        "frameType": "spell",
+        "desc": "Ritual Summon 1 |Archfiend| Ritual Monster from your hand, face-up Extra Deck, GY, or banishment, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. During the Standby Phase, if you have |Archfiend Emperor| in your face-up Extra Deck: You can add this card from your GY or banishment to your hand. You can only use this effect of |Throne of the Archfiends| once per turn.",
+        "race": "Ritual",
+        "archetype": "Archfiend",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/throne-of-the-archfiends-15298"
+      }
+    },
+    {
+      "cardId": 74018812,
+      "quantity": 1,
+      "type": "main",
+      "cardDetails": {
+        "id": 74018812,
+        "name": "Labrynth Stovie Torbie",
+        "typeline": [
+          "Fiend",
+          "Effect"
+        ],
+        "type": "Effect Monster",
+        "humanReadableCardType": "Effect Monster",
+        "frameType": "effect",
+        "desc": "(Quick Effect): You can send this card from your hand or field to the GY and discard 1 card; Set 1 |Labrynth| Spell/Trap from your hand or Deck. If a monster(s) leaves the field by your Normal Trap effect, while this card is in your GY (except during the Damage Step): You can Special Summon this card. You can only use each effect of |Labrynth Stovie Torbie| once per turn.",
+        "race": "Fiend",
+        "atk": 0,
+        "def": 2000,
+        "level": 2,
+        "attribute": "DARK",
+        "archetype": "Labrynth",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/labrynth-stovie-torbie-13120"
+      }
+    },
+    {
+      "cardId": 78744660,
+      "quantity": 1,
+      "type": "main",
+      "cardDetails": {
+        "id": 78744660,
+        "name": "Archfiend Matriarch",
+        "typeline": [
+          "Fiend",
+          "Ritual",
+          "Pendulum",
+          "Effect"
+        ],
+        "type": "Pendulum Effect Ritual Monster",
+        "humanReadableCardType": "Ritual Pendulum Effect Monster",
+        "frameType": "ritual_pendulum",
+        "desc": "[ Pendulum Effect ]  You can target 1 |Archfiend| Spell/Trap in your GY or banishment; destroy this card, and if you do, add that target to your hand. You can only use this effect of |Archfiend Matriarch| once per turn.  [ Monster Effect ]  You can Ritual Summon this card with |Throne of the Archfiends|. Must be Ritual Summoned. Unaffected by other monsters' effects while in the Extra Monster Zone. If this card is Ritual Summoned: You can destroy as many Spells/Traps your opponent controls as possible, then if this card is in the Extra Monster Zone, you can banish all Spells/Traps from your opponent's GY. You can only use this effect of |Archfiend Matriarch| once per turn.",
+        "race": "Fiend",
+        "pend_desc": "You can target 1 |Archfiend| Spell/Trap in your GY or banishment; destroy this card, and if you do, add that target to your hand. You can only use this effect of |Archfiend Matriarch| once per turn.",
+        "monster_desc": "You can Ritual Summon this card with |Throne of the Archfiends|. Must be Ritual Summoned. Unaffected by other monsters' effects while in the Extra Monster Zone. If this card is Ritual Summoned: You can destroy as many Spells/Traps your opponent controls as possible, then if this card is in the Extra Monster Zone, you can banish all Spells/Traps from your opponent's GY. You can only use this effect of |Archfiend Matriarch| once per turn.",
+        "atk": 2100,
+        "def": 2900,
+        "level": 7,
+        "attribute": "LIGHT",
+        "archetype": "Archfiend",
+        "scale": 9,
+        "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-matriarch-15501"
+      }
+    },
+    {
+      "cardId": 82997779,
+      "quantity": 3,
+      "type": "main",
+      "cardDetails": {
+        "id": 82997779,
+        "name": "Archfiend's Usurpation",
+        "type": "Spell Card",
+        "humanReadableCardType": "Quick-Play Spell",
+        "frameType": "spell",
+        "desc": "Activate 1 of these effects;• Set 1 |Archfiend| Trap from your Deck or GY. It can be activated this turn.• Ritual Summon 1 |Archfiend| Ritual Monster from your hand or face-up Extra Deck, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. You can only activate 1 |Archfiend's Usurpation| per turn.",
+        "race": "Quick-Play",
+        "archetype": "Archfiend",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-s-usurpation-15498"
+      }
+    },
+    {
+      "cardId": 85154941,
+      "quantity": 3,
+      "type": "main",
+      "cardDetails": {
+        "id": 85154941,
+        "name": "Duke Archfiend",
+        "typeline": [
+          "Fiend",
+          "Effect"
+        ],
+        "type": "Effect Monster",
+        "humanReadableCardType": "Effect Monster",
+        "frameType": "effect",
+        "desc": "Gains ATK equal to its Level x 200. You can only use each of the following effects of |Duke Archfiend| once per turn. You can target 1 face-up monster you control that has a Level; send 1 |Archfiend| monster from your Deck to the GY, except |Duke Archfiend|, and if you do, increase that monster's Level by the Level of the sent monster. When your Ritual Monster is destroyed by battle while this card is in your GY: You can Special Summon this card.",
+        "race": "Fiend",
+        "atk": 0,
+        "def": 2000,
+        "level": 4,
+        "attribute": "WATER",
+        "archetype": "Archfiend",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/duke-archfiend-15300"
+      }
+    },
+    {
+      "cardId": 87985506,
+      "quantity": 3,
+      "type": "main",
+      "cardDetails": {
+        "id": 87985506,
+        "name": "Archfiend Playtime",
+        "type": "Trap Card",
+        "humanReadableCardType": "Normal Trap",
+        "frameType": "trap",
+        "desc": "Special Summon 1 Level 7 or lower |Archfiend| monster from your hand or Deck, or if you have an |Archfiend| Ritual Monster in your face-up Extra Deck, you can Special Summon up to 1 each of |Royal Archfiend|, |Duke Archfiend|, and |Highness Archfiend| from your hand and/or Deck instead. You can only activate 1 |Archfiend Playtime| per turn.",
+        "race": "Normal",
+        "archetype": "Archfiend",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-playtime-15295"
+      }
+    },
+    {
+      "cardId": 90764871,
+      "quantity": 3,
+      "type": "main",
+      "cardDetails": {
+        "id": 90764871,
+        "name": "Archfiend Strategy",
+        "type": "Spell Card",
+        "humanReadableCardType": "Field Spell",
+        "frameType": "spell",
+        "desc": "Fiend monsters in the Extra Monster Zone(s) gain 1000 ATK. You can activate 1 of these effects;• Banish 1 Fiend monster or 1 |Archfiend| card from your hand or GY; add 1 |Archfiend| card from your Deck to your hand, except a Field Spell.• Add 1 |Archfiend| Pendulum Monster from your Deck to your face-up Extra Deck. You can only use this effect of |Archfiend Strategy| once per turn.",
+        "race": "Field",
+        "archetype": "Archfiend",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-strategy-15294"
+      }
+    },
+    {
+      "cardId": 92714517,
+      "quantity": 3,
+      "type": "main",
+      "cardDetails": {
+        "id": 92714517,
+        "name": "Big Welcome Labrynth",
+        "type": "Trap Card",
+        "humanReadableCardType": "Normal Trap",
+        "frameType": "trap",
+        "desc": "Special Summon 1 |Labrynth| monster from your hand, Deck, or GY, then return 1 monster you control to the hand. You can banish this card from your GY, then target 1 Fiend monster you control, or, if you control a Level 8 or higher Fiend monster, you can target 1 card your opponent controls instead; return that card to the hand. You can only use 1 |Big Welcome Labrynth| effect per turn, and only once that turn.",
+        "race": "Normal",
+        "archetype": "Labrynth",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/big-welcome-labrynth-13552"
+      }
+    },
+    {
+      "cardId": 94145021,
+      "quantity": 2,
+      "type": "main",
+      "cardDetails": {
+        "id": 94145021,
+        "name": "Droll  & Lock Bird",
+        "typeline": [
+          "Spellcaster",
+          "Effect"
+        ],
+        "type": "Effect Monster",
+        "humanReadableCardType": "Effect Monster",
+        "frameType": "effect",
+        "desc": "If a card(s) is added from the Main Deck to your opponent's hand, except during the Draw Phase (Quick Effect): You can send this card from your hand to the GY; for the rest of this turn, cards cannot be added from either player's Main Deck to the hand.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "WIND",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/droll-lock-bird-7832",
+        "banlist_info": {
+          "ban_tcg": "Semi-Limited",
+          "ban_ocg": "Limited"
+        }
+      }
+    },
+    {
+      "cardId": 2463794,
+      "quantity": 1,
+      "type": "extra",
+      "cardDetails": {
+        "id": 2463794,
+        "name": "Fiendsmith's Requiem",
+        "typeline": [
+          "Fiend",
+          "Link",
+          "Effect"
+        ],
+        "type": "Link Monster",
+        "humanReadableCardType": "Link Effect Monster",
+        "frameType": "link",
+        "desc": "1 LIGHT Fiend monster You can only Special Summon |Fiendsmith's Requiem(s)| once per turn. During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 |Fiendsmith| monster from your hand or Deck. You can target 1 LIGHT non-Link Fiend monster you control; equip this card from your field or GY to that monster you control as an Equip Spell that gives it 600 ATK. You can only use this effect of |Fiendsmith's Requiem| once per turn.",
+        "race": "Fiend",
+        "atk": 600,
+        "def": null,
+        "level": null,
+        "attribute": "LIGHT",
+        "archetype": "Fiendsmith",
+        "linkval": 1,
+        "linkmarkers": [
+          "Bottom"
+        ],
+        "ygoprodeck_url": "https://ygoprodeck.com/card/fiendsmith-s-requiem-14424"
+      }
+    },
+    {
+      "cardId": 6983839,
+      "quantity": 1,
+      "type": "extra",
+      "cardDetails": {
+        "id": 6983839,
+        "name": "Tornado Dragon",
+        "typeline": [
+          "Wyrm",
+          "Xyz",
+          "Effect"
+        ],
+        "type": "XYZ Monster",
+        "humanReadableCardType": "Xyz Effect Monster",
+        "frameType": "xyz",
+        "desc": "2 Level 4 monsters Once per turn (Quick Effect): You can detach 1 material from this card, then target 1 Spell/Trap on the field; destroy it.",
+        "race": "Wyrm",
+        "atk": 2100,
+        "def": 2000,
+        "level": 4,
+        "attribute": "WIND",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/tornado-dragon-8538"
+      }
+    },
+    {
+      "cardId": 29301450,
+      "quantity": 1,
+      "type": "extra",
+      "cardDetails": {
+        "id": 29301450,
+        "name": "S:P Little Knight",
+        "typeline": [
+          "Warrior",
+          "Link",
+          "Effect"
+        ],
+        "type": "Link Monster",
+        "humanReadableCardType": "Link Effect Monster",
+        "frameType": "link",
+        "desc": "2 Effect Monsters If this card is Link Summoned using a Fusion, Synchro, Xyz, or Link Monster as material: You can target 1 card on the field or in either GY; banish it, also your monsters cannot attack directly this turn. When your opponent activates a card or effect (Quick Effect): You can target 2 face-up monsters on the field, including a monster you control; banish both until the End Phase. You can only use each effect of |S:P Little Knight| once per turn.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": null,
+        "level": null,
+        "attribute": "DARK",
+        "linkval": 2,
+        "linkmarkers": [
+          "Left",
+          "Right"
+        ],
+        "ygoprodeck_url": "https://ygoprodeck.com/card/s-p-little-knight-14075",
+        "banlist_info": {
+          "ban_ocg": "Limited"
+        }
+      }
+    },
+    {
+      "cardId": 45112597,
+      "quantity": 1,
+      "type": "extra",
+      "cardDetails": {
+        "id": 45112597,
+        "name": "Worldsea Dragon Zealantis",
+        "typeline": [
+          "Sea Serpent",
+          "Link",
+          "Effect"
+        ],
+        "type": "Link Monster",
+        "humanReadableCardType": "Link Effect Monster",
+        "frameType": "link",
+        "desc": "1+ Effect Monsters You can only control 1 |Worldsea Dragon Zealantis|. You can only use each of the following effects of |Worldsea Dragon Zealantis| once per turn. During your Main Phase: You can banish all monsters on the field, then Special Summon as many monsters as possible that were banished by this effect, to their owners' fields, face-up, or in face-down Defense Position. During the Battle Phase (Quick Effect): You can destroy cards on the field up to the number of co-linked monsters on the field.",
+        "race": "Sea Serpent",
+        "atk": 2500,
+        "def": null,
+        "level": null,
+        "attribute": "WATER",
+        "linkval": 4,
+        "linkmarkers": [
+          "Top",
+          "Left",
+          "Right",
+          "Bottom"
+        ],
+        "ygoprodeck_url": "https://ygoprodeck.com/card/worldsea-dragon-zealantis-13379"
+      }
+    },
+    {
+      "cardId": 46772449,
+      "quantity": 1,
+      "type": "extra",
+      "cardDetails": {
+        "id": 46772449,
+        "name": "Evilswarm Exciton Knight",
+        "typeline": [
+          "Fiend",
+          "Xyz",
+          "Effect"
+        ],
+        "type": "XYZ Monster",
+        "humanReadableCardType": "Xyz Effect Monster",
+        "frameType": "xyz",
+        "desc": "2 Level 4 monsters Once per chain, during your Main Phase or your opponent's Battle Phase, if your opponent has more total cards in their hand and field than you do (Quick Effect): You can detach 1 material from this card; destroy all other cards on the field, also your opponent takes no further damage this turn.",
+        "race": "Fiend",
+        "atk": 1900,
+        "def": 0,
+        "level": 4,
+        "attribute": "LIGHT",
+        "archetype": "Lswarm",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/evilswarm-exciton-knight-3986"
+      }
+    },
+    {
+      "cardId": 60303245,
+      "quantity": 1,
+      "type": "extra",
+      "cardDetails": {
+        "id": 60303245,
+        "name": "Salamangreat Almiraj",
+        "typeline": [
+          "Cyberse",
+          "Link",
+          "Effect"
+        ],
+        "type": "Link Monster",
+        "humanReadableCardType": "Link Effect Monster",
+        "frameType": "link",
+        "desc": "1 Normal Summoned monster with 1000 or less ATK (Quick Effect): You can Tribute this card, then target 1 monster you control; it cannot be destroyed by your opponent's card effects this turn. When a Normal Summoned monster you control is destroyed by battle, while this card is in your GY: You can Special Summon this card. You can only use this effect of |Salamangreat Almiraj| once per turn.",
+        "race": "Cyberse",
+        "atk": 0,
+        "def": null,
+        "level": null,
+        "attribute": "FIRE",
+        "archetype": "Salamangreat",
+        "linkval": 1,
+        "linkmarkers": [
+          "Bottom-Right"
+        ],
+        "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-almiraj-9927"
+      }
+    },
+    {
+      "cardId": 65741786,
+      "quantity": 1,
+      "type": "extra",
+      "cardDetails": {
+        "id": 65741786,
+        "name": "I:P Masquerena",
+        "typeline": [
+          "Cyberse",
+          "Link",
+          "Effect"
+        ],
+        "type": "Link Monster",
+        "humanReadableCardType": "Link Effect Monster",
+        "frameType": "link",
+        "desc": "2 non-Link Monsters During your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Link Summon 1 Link Monster using materials you control, including this card. You can only use this effect of |I:P Masquerena| once per turn. A Link Monster that used this card as material cannot be destroyed by your opponent's card effects.",
+        "race": "Cyberse",
+        "atk": 800,
+        "def": null,
+        "level": null,
+        "attribute": "DARK",
+        "linkval": 2,
+        "linkmarkers": [
+          "Bottom-Left",
+          "Bottom-Right"
+        ],
+        "ygoprodeck_url": "https://ygoprodeck.com/card/i-p-masquerena-10464"
+      }
+    },
+    {
+      "cardId": 1225009,
+      "quantity": 1,
+      "type": "side",
+      "cardDetails": {
+        "id": 1225009,
+        "name": "Arianna the Labrynth Servant",
+        "typeline": [
+          "Fiend",
+          "Effect"
+        ],
+        "type": "Effect Monster",
+        "humanReadableCardType": "Effect Monster",
+        "frameType": "effect",
+        "desc": "If this card is Normal or Special Summoned: You can add 1 |Labrynth| card from your Deck to your hand, except |Arianna the Labrynth Servant|. If another monster(s) leaves the field by your Normal Trap effect (except during the Damage Step): You can draw 1 card, then you can apply this effect.• From your hand, either Special Summon 1 Fiend monster, or Set 1 Spell/Trap. You can only use 1 |Arianna the Labrynth Servant| effect per turn, and only once that turn.",
+        "race": "Fiend",
+        "atk": 1600,
+        "def": 2100,
+        "level": 4,
+        "attribute": "DARK",
+        "archetype": "Labrynth",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/arianna-the-labrynth-servant-13118"
+      }
+    },
+    {
+      "cardId": 13048472,
+      "quantity": 2,
+      "type": "side",
+      "cardDetails": {
+        "id": 13048472,
+        "name": "Pre-Preparation of Rites",
+        "type": "Spell Card",
+        "humanReadableCardType": "Normal Spell",
+        "frameType": "spell",
+        "desc": "Add 1 Ritual Spell from your Deck to your hand, and add 1 Ritual Monster from your Deck or GY to your hand whose name is listed on that Ritual Spell. You can only activate 1 |Pre-Preparation of Rites| per turn.",
+        "race": "Normal",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/pre-preparation-of-rites-1126",
+        "banlist_info": {
+          "ban_ocg": "Limited"
+        }
+      }
+    },
+    {
+      "cardId": 14532163,
+      "quantity": 1,
+      "type": "side",
+      "cardDetails": {
+        "id": 14532163,
+        "name": "Lightning Storm",
+        "type": "Spell Card",
+        "humanReadableCardType": "Normal Spell",
+        "frameType": "spell",
+        "desc": "If you control no face-up cards: Activate 1 of these effects;• Destroy all Attack Position monsters your opponent controls.• Destroy all Spells and Traps your opponent controls. You can only activate 1 |Lightning Storm| per turn.",
+        "race": "Normal",
+        "archetype": "Cyclone",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/lightning-storm-10639"
+      }
+    },
+    {
+      "cardId": 27204311,
+      "quantity": 1,
+      "type": "side",
+      "cardDetails": {
+        "id": 27204311,
+        "name": "Nibiru, the Primal Being",
+        "typeline": [
+          "Rock",
+          "Effect"
+        ],
+        "type": "Effect Monster",
+        "humanReadableCardType": "Effect Monster",
+        "frameType": "effect",
+        "desc": "During the Main Phase, if your opponent Normal or Special Summoned 5 or more monsters this turn (Quick Effect): You can Tribute as many face-up monsters on the field as possible, and if you do, Special Summon this card from your hand, then Special Summon 1 |Primal Being Token| (Rock/LIGHT/Level 11/ATK ?/DEF ?) to your opponent's field. (This Token's ATK/DEF become the combined original ATK/DEF of the Tributed monsters.) You can only use this effect of |Nibiru, the Primal Being| once per turn.",
+        "race": "Rock",
+        "atk": 3000,
+        "def": 600,
+        "level": 11,
+        "attribute": "LIGHT",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/nibiru-the-primal-being-10564"
+      }
+    },
+    {
+      "cardId": 49238328,
+      "quantity": 1,
+      "type": "side",
+      "cardDetails": {
+        "id": 49238328,
+        "name": "Pot of Extravagance",
+        "type": "Spell Card",
+        "humanReadableCardType": "Normal Spell",
+        "frameType": "spell",
+        "desc": "At the start of your Main Phase 1: Banish 3 or 6 random face-down cards from your Extra Deck, face-down; draw 1 card for every 3 cards banished. For the rest of this turn after this card resolves, you cannot draw any cards by card effects.",
+        "race": "Normal",
+        "archetype": "Greed",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/pot-of-extravagance-9771",
+        "banlist_info": {
+          "ban_ocg": "Semi-Limited"
+        }
+      }
+    },
+    {
+      "cardId": 80101899,
+      "quantity": 2,
+      "type": "side",
+      "cardDetails": {
+        "id": 80101899,
+        "name": "Trap Trick",
+        "type": "Trap Card",
+        "humanReadableCardType": "Normal Trap",
+        "frameType": "trap",
+        "desc": "Banish 1 Normal Trap from your Deck, except |Trap Trick|, and Set 1 card with the same name directly from your Deck, also it can be activated this turn. You can only activate 1 Trap Card for the rest of this turn after this card resolves. You can only activate 1 |Trap Trick| per turn.",
+        "race": "Normal",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/trap-trick-9620"
+      }
+    },
+    {
+      "cardId": 84211599,
+      "quantity": 1,
+      "type": "side",
+      "cardDetails": {
+        "id": 84211599,
+        "name": "Pot of Prosperity",
+        "type": "Spell Card",
+        "humanReadableCardType": "Normal Spell",
+        "frameType": "spell",
+        "desc": "Banish 3 or 6 cards of your choice from your Extra Deck, face-down; for the rest of this turn after this card resolves, any damage your opponent takes is halved, also excavate cards from the top of your Deck equal to the number of cards banished, add 1 excavated card to your hand, place the rest on the bottom of your Deck in any order. You can only activate 1 |Pot of Prosperity| per turn. You cannot draw cards by card effects the turn you activate this card.",
+        "race": "Normal",
+        "archetype": "Greed",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/pot-of-prosperity-11636",
+        "banlist_info": {
+          "ban_tcg": "Limited",
+          "ban_ocg": "Limited"
+        }
+      }
+    },
+    {
+      "cardId": 97268402,
+      "quantity": 3,
+      "type": "side",
+      "cardDetails": {
+        "id": 97268402,
+        "name": "Effect Veiler",
+        "typeline": [
+          "Spellcaster",
+          "Tuner",
+          "Effect"
+        ],
+        "type": "Tuner Monster",
+        "humanReadableCardType": "Tuner Effect Monster",
+        "frameType": "effect",
+        "desc": "During your opponent's Main Phase (Quick Effect): You can send this card from your hand to the GY, then target 1 Effect Monster your opponent controls; negate the effects of that face-up monster your opponent controls, until the end of this turn.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "LIGHT",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/effect-veiler-8093"
+      }
+    }
+  ],
+  "id": "deck_1790862725068_0umuuwg",
+  "createdAt": 1790862725068,
+  "updatedAt": 1790862729959
+}
