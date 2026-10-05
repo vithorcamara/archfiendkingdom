@@ -1,0 +1,301 @@
+{
+  "cards": [
+    {
+      "name": "Archfiend Eccentrick",
+      "categories": ["midGameAndValue"],
+      "roles": {
+        "midGameAndValue": "Atua como remoção flexível (M/A na escala ou Monstro em campo) trocando 1 por 1"
+      }
+    },
+    {
+      "name": "Archfiend Emperor",
+      "categories": ["bossMonsters"],
+      "roles": {
+        "bossMonsters": "Win condition principal na EMZ: fica imune a efeitos de outros monstros; quando Ritualizado do Extra Deck, bane os monstros fora das EMZs; enquanto estiver na EMZ, Invoca Fiends da mão/Deck/GY/Banimento"
+      }
+    },
+    {
+      "name": "Archfiend Matriarch",
+      "categories": ["bossMonsters", "midGameAndValue"],
+      "roles": {
+        "bossMonsters": "Destrói/bane todas as M/A do oponente quando invocada por Ritual",
+        "midGameAndValue": "Recupera M/A Archfiend do GY/Banimento via escala Pêndulo"
+      }
+    },
+    {
+      "name": "Archfiend Playtime",
+      "categories": ["trapsEngine", "extendersAndEnablers"],
+      "roles": {
+        "trapsEngine": "Interrupção/Invocação Rápida de Archfiends no turno do oponente",
+        "extendersAndEnablers": "Invoca até 3 Archfiends de uma vez se houver Ritual face-up no Extra Deck"
+      }
+    },
+    {
+      "name": "Archfiend Strategy",
+      "categories": ["starters", "extendersAndEnablers"],
+      "roles": {
+        "starters": "Envia um Pêndulo ao Extra Deck face-up sem custos",
+        "extendersAndEnablers": "Bane 1 monstro Fiend ou carta Archfiend da mão/GY para buscar uma carta Archfiend do Deck, exceto uma Magia de Campo"
+      }
+    },
+    {
+      "name": "Archfiend's Fervor",
+      "categories": ["trapsEngine", "extendersAndEnablers"],
+      "roles": {
+        "trapsEngine": "Nega efeitos de 1 carta a face para cima no campo",
+        "extendersAndEnablers": "Quando banida, busca 1 carta Archfiend no Deck"
+      }
+    },
+    {
+      "name": "Archfiend's Ghastly Glitch",
+      "categories": ["trapsEngine", "extendersAndEnablers"],
+      "roles": {
+        "trapsEngine": "Remoção direta destruindo 1 carta no campo",
+        "extendersAndEnablers": "Envia 1 monstro Fiend do Deck diretamente ao GY"
+      }
+    },
+    {
+      "name": "Archfiend's Usurpation",
+      "categories": ["starters", "extendersAndEnablers"],
+      "roles": {
+        "starters": "Baixa 1 Armadilha Archfiend do Deck/GY que pode ser ativada no mesmo turno sem custo",
+        "extendersAndEnablers": "Realiza Invocação-Ritual Rápida da mão ou Extra Deck tributando monstros"
+      }
+    },
+    {
+      "name": "Arianna the Labrynth Servant",
+      "categories": ["starters", "extendersAndEnablers"],
+      "roles": {
+        "starters": "Normal/Special Summon busca qualquer carta Labrynth no Deck",
+        "extendersAndEnablers": "Gera compra e Invocação Especial se um monstro deixar o campo por armadilha normal"
+      }
+    },
+    {
+      "name": "Ash Blossom & Joyous Spring",
+      "categories": ["handtrapsAndStaples"],
+      "roles": {
+        "handtrapsAndStaples": "Interrupção rápida da mão negando buscas, envios ou invocações do Deck do oponente"
+      }
+    },
+    {
+      "name": "Big Welcome Labrynth",
+      "categories": ["trapsEngine", "extendersAndEnablers"],
+      "roles": {
+        "trapsEngine": "Invoca 1 Labrynth do Deck/Mão e custa um monstro retornando à mão",
+        "extendersAndEnablers": "Efeito no GY para retornar cartas ou reciclar monstros"
+      }
+    },
+    {
+      "name": "Called by the Grave",
+      "categories": ["handtrapsAndStaples"],
+      "roles": {
+        "handtrapsAndStaples": "Proteção contra handtraps banindo e negando cópias no GY"
+      }
+    },
+    {
+      "name": "Destructive Daruma Karma Cannon",
+      "categories": ["trapsEngine"],
+      "roles": {
+        "trapsEngine": "Remoção em massa virando monstros para baixo e limpando os imunes enviando ao GY"
+      }
+    },
+    {
+      "name": "Droll & Lock Bird",
+      "categories": ["handtrapsAndStaples"],
+      "roles": {
+        "handtrapsAndStaples": "Trava buscas consecutivas do Deck para a mão durante o turno"
+      }
+    },
+    {
+      "name": "Duke Archfiend",
+      "categories": ["extendersAndEnablers", "midGameAndValue"],
+      "roles": {
+        "extendersAndEnablers": "Envia Archfiends do Deck ao GY e ajusta Nível em campo para Invocação-Ritual",
+        "midGameAndValue": "Auto-invocação Especial do GY quando seu Monstro Ritual é destruído em batalha"
+      }
+    },
+    {
+      "name": "Effect Veiler",
+      "categories": ["handtrapsAndStaples"],
+      "roles": {
+        "handtrapsAndStaples": "Nega efeitos de 1 monstro no campo durante a Main Phase do oponente"
+      }
+    },
+    {
+      "name": "Evilswarm Exciton Knight",
+      "categories": ["handtrapsAndStaples", "bossMonsters"],
+      "roles": {
+        "handtrapsAndStaples": "Bomba do Extra Deck (Xyz 4): se o oponente tiver mais cartas somando mão e campo, pode destruir todas as outras cartas no campo; você não causa mais dano naquele turno",
+        "bossMonsters": "Opção de emergência para limpar mesas estabelecidas quando o oponente tem mais cartas na mão e no campo"
+      }
+    },
+    {
+      "name": "Farewelcome Labrynth",
+      "categories": ["trapsEngine"],
+      "roles": {
+        "trapsEngine": "Nega ataques do oponente, destrói 1 carta no campo e baixa Armadilha do Deck"
+      }
+    },
+    {
+      "name": "Fiendsmith's Requiem",
+      "categories": ["extendersAndEnablers"],
+      "roles": {
+        "extendersAndEnablers": "Link-1 de Fiend de LUZ; pode se tributar como Efeito Rápido para Invocar um Fiendsmith da mão/Deck, ou se equipar a um Fiend de LUZ não-Link"
+      }
+    },
+    {
+      "name": "Harpie's Feather Duster",
+      "categories": ["handtrapsAndStaples"],
+      "roles": {
+        "handtrapsAndStaples": "Limpeza total de Magias e Armadilhas do oponente"
+      }
+    },
+    {
+      "name": "Highness Archfiend",
+      "categories": ["midGameAndValue", "extendersAndEnablers"],
+      "roles": {
+        "midGameAndValue": "Gera +2 de vantagem buscando 2 cartas Archfiend do Deck ao banir 1 do GY",
+        "extendersAndEnablers": "Fornece recursos e peças adicionais para continuar a linha de Ritual"
+      }
+    },
+    {
+      "name": "I:P Masquerena",
+      "categories": ["extendersAndEnablers", "trapsEngine"],
+      "roles": {
+        "extendersAndEnablers": "Permite Invocação-Link no turno do oponente (ex: S:P Little Knight ou Zealantis)",
+        "trapsEngine": "O Monstro Link Invocado usando I:P como matéria não pode ser destruído pelos efeitos de cartas do oponente"
+      }
+    },
+    {
+      "name": "Infinite Impermanence",
+      "categories": ["handtrapsAndStaples", "trapsEngine"],
+      "roles": {
+        "handtrapsAndStaples": "Handtrap de negação direta ativada da mão",
+        "trapsEngine": "Armadilha Normal baixada em campo que ativa o efeito do Labrynth Archfiend"
+      }
+    },
+    {
+      "name": "Labrynth Archfiend",
+      "categories": ["trapsEngine", "extendersAndEnablers"],
+      "roles": {
+        "trapsEngine": "Invoca-se por Invocação-Especial da mão ao ativar qualquer Armadilha",
+        "extendersAndEnablers": "Baixa Armadilhas Normais de ataque diretamente do Deck"
+      }
+    },
+    {
+      "name": "Labrynth Stovie Torbie",
+      "categories": ["starters", "midGameAndValue"],
+      "roles": {
+        "starters": "Descarta a si mesmo e outra carta para baixar Armadilhas Labrynth diretamente do Deck",
+        "midGameAndValue": "Revive do GY quando monstros deixam o campo por efeito de Armadilha Normal"
+      }
+    },
+    {
+      "name": "Lightning Storm",
+      "categories": ["handtrapsAndStaples"],
+      "roles": {
+        "handtrapsAndStaples": "Remoção de segundo turno: limpa todos os monstros em Ataque ou todas M/A"
+      }
+    },
+    {
+      "name": "Lovely Labrynth of the Silver Castle",
+      "categories": ["bossMonsters", "midGameAndValue"],
+      "roles": {
+        "bossMonsters": "Bloqueia respostas de monstros a Armadilhas e destrói cartas da mão/campo",
+        "midGameAndValue": "Recicla Armadilhas Normais do GY baixando-as diretamente no campo"
+      }
+    },
+    {
+      "name": "Nibiru, the Primal Being",
+      "categories": ["handtrapsAndStaples"],
+      "roles": {
+        "handtrapsAndStaples": "Punção contra decks de combo tributando todo o campo do oponente após 5+ invocações"
+      }
+    },
+    {
+      "name": "Pot of Extravagance",
+      "categories": ["starters", "handtrapsAndStaples"],
+      "roles": {
+        "starters": "Consistência de compra adicionando 1 ou 2 cartas à mão no início da Main Phase 1",
+        "handtrapsAndStaples": "Recurso de vantagem de cartas bruto"
+      }
+    },
+    {
+      "name": "Pot of Prosperity",
+      "categories": ["starters", "handtrapsAndStaples"],
+      "roles": {
+        "starters": "Busca cirúrgica escavando até 6 cartas para pegar a peça exata do combo",
+        "handtrapsAndStaples": "Iniciador de consistência para garantir starters na mão"
+      }
+    },
+    {
+      "name": "Pre-Preparation of Rites",
+      "categories": ["starters"],
+      "roles": {
+        "starters": "Starter direto de 1 carta: adiciona Throne e Emperor juntos à mão"
+      }
+    },
+    {
+      "name": "Royal Archfiend",
+      "categories": ["starters", "extendersAndEnablers"],
+      "roles": {
+        "starters": "Tributa-se para buscar qualquer carta Archfiend do Deck",
+        "extendersAndEnablers": "Concede +1 Invocação Normal adicional para monstros Fiend"
+      }
+    },
+    {
+      "name": "S:P Little Knight",
+      "categories": ["handtrapsAndStaples", "extendersAndEnablers"],
+      "roles": {
+        "handtrapsAndStaples": "Remoção versátil por banimento ao entrar ou em resposta a efeitos",
+        "extendersAndEnablers": "Proteção para seus monstros temporariamente banindo-os do campo"
+      }
+    },
+    {
+      "name": "Salamangreat Almiraj",
+      "categories": ["extendersAndEnablers"],
+      "roles": {
+        "extendersAndEnablers": "Link-1 que usa como material um monstro Invocado por Invocação-Normal com 1000 ATK ou menos; pode se tributar como Efeito Rápido para proteger 1 monstro seu de destruição por efeitos"
+      }
+    },
+    {
+      "name": "Throne of the Archfiends",
+      "categories": ["extendersAndEnablers", "midGameAndValue"],
+      "roles": {
+        "extendersAndEnablers": "Magia Ritual principal para invocar do Extra Deck, Mão, GY ou Banimento",
+        "midGameAndValue": "Auto-recuperação do GY para a mão na Standby Phase"
+      }
+    },
+    {
+      "name": "Tornado Dragon",
+      "categories": ["handtrapsAndStaples"],
+      "roles": {
+        "handtrapsAndStaples": "Remoção Rápida de M/A do Extra Deck (XYZ 4) no turno de qualquer jogador"
+      }
+    },
+    {
+      "name": "Trap Trick",
+      "categories": ["starters", "trapsEngine"],
+      "roles": {
+        "starters": "Acessa diretamente qualquer Armadilha Normal do Deck baixando e permitindo ativar no mesmo turno",
+        "trapsEngine": "Aumenta a consistência e busca de interrupções como Big Welcome e Farewelcome"
+      }
+    },
+    {
+      "name": "Triple Tactics Talent",
+      "categories": ["handtrapsAndStaples", "midGameAndValue"],
+      "roles": {
+        "handtrapsAndStaples": "Punição contra handtraps do oponente (comprar 2, roubar monstro ou tirar carta da mão)",
+        "midGameAndValue": "Ferramenta de virada no Turno 2"
+      }
+    },
+    {
+      "name": "Worldsea Dragon Zealantis",
+      "categories": ["bossMonsters", "handtrapsAndStaples"],
+      "roles": {
+        "bossMonsters": "Reseta a posição dos monstros banindo e re-invocando os que puder; tokens banidos deixam de existir, mas não são destruídos, e o efeito não destrói cartas do Extra Deck",
+        "handtrapsAndStaples": "Finalizador para OTK combinando com remoções da mesa"
+      }
+    }
+  ]
+}
