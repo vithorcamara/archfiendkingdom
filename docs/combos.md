@@ -11,12 +11,12 @@ As linhas abaixo assumem que o oponente não interrompe os efeitos e que as cart
 3. Use a Invocação-Normal adicional concedida por Royal para Invocar Highness. Ative o efeito de Highness, bana Royal do GY e adicione Throne of the Archfiends e Archfiend's Usurpation do Deck à mão.
 4. Use o segundo efeito de Archfiend Strategy para colocar Archfiend Emperor do Deck face-up no Extra Deck.
 5. Ative Archfiend's Usurpation e Baixe Archfiend Playtime do Deck. Usurpation permite ativar essa Armadilha neste turno.
-6. Ative Archfiend Playtime. Como há um Ritual Archfiend face-up no Extra Deck, Invoque Royal Archfiend e Duke Archfiend do Deck.
+6. Ative Archfiend Playtime. Como há um Ritual Archfiend face-up no Extra Deck, o Playtime pode invocar Royal, Duke e Highness ao mesmo tempo porém faça só a invocação do Duke Archfiend do Deck.
 7. Ative Throne of the Archfiends, tributando Duke (Nível 4) e Highness (Nível 3), e Ritualize Archfiend Emperor do Extra Deck na EMZ.
 8. O efeito de Emperor, Ritualizado do Extra Deck, bane os monstros no campo fora das EMZs. Depois, enquanto Emperor estiver na EMZ, use seu outro efeito para Invocar Lovely direto do deck.
 9. Ative o efeito da Lovely para settar Archfiend Playtime.
 
-**Resultado:** Archfiend Emperor na EMZ, Lovely no campo e Archfiend Playtime Baixada para o próximo turno. Playtime não pode ser ativada no mesmo turno em que Lovely a Baixou.
+**Resultado:** Archfiend Emperor na EMZ, Lovely no campo e Archfiend Playtime Baixada para o próximo turno.
 
 ## Combo 02
 
@@ -24,18 +24,20 @@ As linhas abaixo assumem que o oponente não interrompe os efeitos e que as cart
 
 1. Ative Pre-Preparation of Rites e adicione Throne of the Archfiends e Archfiend Emperor à mão. A busca funciona porque Throne menciona Emperor pelo nome em seu efeito de recuperação.
 2. Ative Archfiend Strategy e use seu efeito para colocar Archfiend Matriarch do Deck face-up no Extra Deck.
-3. Invoque Royal Archfiend por Invocação-Normal.
-4. Ative Throne of the Archfiends, tributando Royal (Nível 7), e Ritualize Matriarch do Extra Deck na EMZ.
-5. Ao ser Ritualizada, Matriarch destrói as Magias/Armadilhas que o oponente controla; por estar na EMZ, também bane as Magias/Armadilhas do GY dele.
+3. Ative o efeito de Royal na mão, tributando-o, e adicione Highness do Deck.
+4. Use a Invocação-Normal na Highness. Ative o efeito, bana Royal do GY e adicione Duke e Strategy do Deck à mão.
+5. Ative Emperor como Pêndulo; seu efeito de Pêndulo para destruir uma magic/trap face-up no campo, que no caso será a própria Strategy e ele vai face-up para o Extra Deck.
+6. Ative Archfiend Strategy e use Throne, tributando Highness (Nível 3) e Duke (Nível 4), e Ritualize Emperor do Extra Deck na EMZ.
+7. O efeito de Emperor, Ritualizado do Extra Deck, bane os monstros no campo fora das EMZs. Depois, enquanto Emperor estiver na EMZ, use seu outro efeito para Invocar Lovely direto do deck.
 
-**Resultado:** Archfiend Matriarch na EMZ, com a retaguarda do oponente destruída e as Magias/Armadilhas no GY dele banidas. Archfiend Emperor fica na mão para uma linha posterior.
+**Resultado:** Archfiend Emperor na EMZ, Lovely no campo e os monstros adversários banidos. Archfiend Matriarch fica face-up no Extra Deck para uma linha posterior.
 
 ## Combo 03
 
-**Mão:** Royal Archfiend, Archfiend Strategy, Archfiend's Usurpation.
+**Mão:** Labrynth Archfiend, Archfiend Strategy, Archfiend's Usurpation.
 
 1. Ative Archfiend Strategy e coloque Archfiend Emperor do Deck face-up no Extra Deck.
-2. Ative Archfiend's Usurpation e use o efeito de Ritual Rápida, tributando Royal (Nível 7), para Ritualizar Archfiend Emperor do Extra Deck na EMZ.
+2. Ative Archfiend's Usurpation e use o efeito de Ritual Rápida, tributando Labrynth (Nível 7), para Ritualizar Archfiend Emperor do Extra Deck na EMZ.
 3. Use o efeito de Emperor Ritualizado do Extra Deck para banir os monstros no campo fora das EMZs.
 4. Enquanto Emperor estiver na EMZ, use seu efeito para Invocar Lovely direto do deck.
 
@@ -49,8 +51,7 @@ As linhas abaixo assumem que o oponente não interrompe os efeitos e que as cart
 2. Invoque Duke Archfiend por Invocação-Normal.
 3. Ative o efeito de Duke, escolhendo-o como alvo e enviando Archfiend Eccentrick do Deck ao Cemitério. Duke ganha 3 Níveis e passa do Nível 4 ao 7.
 4. Ative Archfiend's Usurpation e Ritualize Archfiend Emperor do Extra Deck na EMZ, tributando Duke (Nível 7 agora).
-5. Use o efeito de Emperor Ritualizado do Extra Deck para limpar os monstros fora das EMZs.
-6. Use o efeito de Emperor na EMZ para Invocar o Royal direto do Deck.
+5. Use o primeiro efeito de Emperor Ritualizado do Extra Deck para limpar os monstros fora das EMZs e o segundo efeito de Emperor para Invocar o Royal direto do Deck.
 7. Use o efeito do Royal para buscar Throne. Como Royal concede uma Invocação-Normal adicional, ela pode ser usada na Main Phase para Invocar Highness.
 8. Ative o efeito de Highness, banindo um Archfiend do GY, para buscar Labrynth Archfiend e Matriarch.
 9. Ative Matriarch como Pêndulo; ela vai face-up para o Extra Deck e seu efeito de Pêndulo recupera Usurpation do GY.
