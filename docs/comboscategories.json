@@ -9,16 +9,17 @@
     },
     {
       "name": "Archfiend Emperor",
-      "categories": ["bossMonsters"],
+      "categories": ["bossMonsters", "midGameAndValue"],
       "roles": {
-        "bossMonsters": "Win condition principal na EMZ: fica imune a efeitos de outros monstros; quando Ritualizado do Extra Deck, bane os monstros fora das EMZs; enquanto estiver na EMZ, Invoca Fiends da mão/Deck/GY/Banimento"
+        "bossMonsters": "Win condition principal na EMZ: fica imune a efeitos de outros monstros; quando Ritualizado do Extra Deck, bane os monstros fora das EMZs; enquanto estiver na EMZ, Invoca Fiends da mão/Deck/GY/Banimento",
+         "midGameAndValue": "Destrói M/A face-up no campo via escala Pêndulo"
       }
     },
     {
       "name": "Archfiend Matriarch",
       "categories": ["bossMonsters", "midGameAndValue"],
       "roles": {
-        "bossMonsters": "Destrói/bane todas as M/A do oponente quando invocada por Ritual",
+        "bossMonsters": "Win condition principal na EMZ: fica imune a efeitos de outros monstros; destrói e, se estiver na EMZ, bane todas as M/A do oponente quando invocada por Ritual",
         "midGameAndValue": "Recupera M/A Archfiend do GY/Banimento via escala Pêndulo"
       }
     },
