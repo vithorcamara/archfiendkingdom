@@ -77,3 +77,15 @@ As linhas abaixo assumem que o oponente não interrompe os efeitos e que as cart
 5. Se necessário remover e banir Magias/Armadilhas adversárias, ative Throne of the Archfiends e Ritualize Matriarch do Extra Deck na EMZ, tributando Emperor, que está face-up na EMZ.
 
 **Resultado:** Mais um corpo em campo, com Farewelcome protegendo Highness. Caso necessário, Throne ritualiza Matriarch para limpar as Magias/Armadilhas e, no turno seguinte, ativa sua recuperação na Standby Phase por causa de Emperor no Extra Deck.
+
+## Combo 05
+
+**Mão:** Duke Archfiend, Archfiend Strategy, Throne of the Archfiends.
+
+1. Ative Archfiend Strategy e use seu segundo efeito para colocar Archfiend Emperor do Deck face-up no Extra Deck.
+2. Invoque Duke Archfiend por Invocação-Normal.
+3. Ative o efeito de Duke, escolhendo-o como alvo, e envie Archfiend Eccentrick do Deck ao Cemitério. Duke ganha 3 Níveis e passa do Nível 4 ao 7.
+4. Ative Throne of the Archfiends e Ritualize Archfiend Emperor do Extra Deck na EMZ, tributando Duke.
+5. O efeito de Emperor, Ritualizado do Extra Deck, bane os monstros no campo fora das EMZs. Depois, enquanto Emperor estiver na EMZ, use seu outro efeito para Invocar Lovely direto do deck.
+
+**Resultado:** Archfiend Emperor na EMZ e Lovely no campo; o efeito de Emperor bane os monstros que estiverem fora das Extra Monster Zones.
